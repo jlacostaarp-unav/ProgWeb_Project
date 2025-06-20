@@ -1,3 +1,5 @@
+In this repository you will find the files of the project and also a .zip file with the same files, just in case the upload is not well done.
+
 ## Requirements
 
 You have been asked to design a system for handling events.
