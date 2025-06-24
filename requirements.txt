@@ -1,4 +1,0 @@
-fastapi[standard]
-requests
-sqlmodel
-Faker
